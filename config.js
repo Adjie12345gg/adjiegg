@@ -17,10 +17,10 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'JO JO BOT'
+global.ownername = 'MELIA'
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 // Other
 global.owner = ['6285754542881','6285754542881','6285754542881']
 global.premium = ['6285754542882']
